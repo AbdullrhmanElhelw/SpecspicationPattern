@@ -1,0 +1,10 @@
+@SpecspicationPattern.Api_HostAddress = https://localhost:7174
+
+GET {{SpecspicationPattern.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
+
+GET {{SpecspicationPattern.Api_HostAddress}}/api/department
+
+###
